@@ -16,7 +16,7 @@ parent: Meeting Notes
 ## Simulation and Environment
 
 ### Adam
-  - Exploring learning with Mujoco
+  - Exploring Mujoco
   - Josiah suggest Webot simulation as a way to consider
 
 ### Zhihan
@@ -27,6 +27,9 @@ parent: Meeting Notes
   - Plan to implement new features:
     - Kick skill implementation in V2
     - Medium-level skills (e.g., walk to point)
+
+### Dimitry
+  - Facing issue with GUI, yuhao suggest wsl2 version
 
 ### Version Integration Discussion
   - Multi-agent training switch to V2
@@ -41,15 +44,18 @@ parent: Meeting Notes
 ### Will
   - Working on multi-agent reinforcement learning
   - Plans to transfer work to V2 in future phases
+
 ## Referee Gesture
+
 ### Zisen
-  - In paper sent by peter, MobileNet-V2 proven viable on NAO hardware
+  - In paper sent by Peter, MobileNet-V2 proven viable on NAO hardware
   - Still need for improved efficiency due to concurrent vision pipeline processing
   - Insight from paper, number of filters impacts inference time more than layer count
   - Tried vanilla GAN for new domain data augmentation
   - Josiah suggest also try diffusion for data augmentation
 
 ## Environment Issues
+
 ### Yuhao
   - Fixed environment bugs, but shared memory has its natural issues
   - GNU-related challenges
