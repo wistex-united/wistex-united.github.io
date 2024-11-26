@@ -58,7 +58,6 @@ parent: Meeting Notes
   - Josiah suggests focus on single-agent behavior cloning before scaling to multi-agent
 
 ## Framework Discussion
-### Framework Comparison
   - RLite: Complex implementation, documentation has latency from code
   - Tianshou: 
     - Undergoing refactoring
