@@ -22,6 +22,9 @@ This is a Python repo to read binary log from BHuman. Intend to be faster and ea
 
 There's an easy to use [CLI version](https://github.com/wistex-united/py-log-reader/blob/master/LogReaderCLI.py) for dumping log into json and png, but you can also use the Log Interface to access the data directly. The binary log from BHuman is much more compressed then json and would be much faster to be directly read.
 
+{: .attention}
+It is highly recommended to add `FrameInfo` to your log file with `dr representation:FrameInfo` in your `.con` file. This representation contains the timestamp information we need for each frame.
+
 ## CLI Version
 
 [CLI script](https://github.com/wistex-united/py-log-reader/blob/master/LogReaderCLI.py)
