@@ -435,4 +435,8 @@ Simply runs it and it will prompt for each change it make. If @Yuhao Li is still
 
 ### OS
 
-[Ubuntu 22.04.5 LTS (Jammy Jellyfish)](https://releases.ubuntu.com/jammy/)
+#### badgerrl / badgerrl2
+- [Ubuntu 22.04.5 LTS (Jammy Jellyfish)](https://releases.ubuntu.com/jammy/)
+
+#### badgerrl3
+- [Ubuntu 24.04.2 LTS (Noble Numbat)](https://releases.ubuntu.com/noble/)
