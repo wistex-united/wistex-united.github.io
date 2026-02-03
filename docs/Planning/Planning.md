@@ -8,4 +8,4 @@ nav_order: 1
 
 Here is a page to link to individual team planning documents.
 
-[Locomotion Team Planning Google Doc](https://docs.google.com/document/d/1KsTVKGkh_-t7Uc5l1a_ojB1n6Ph2BFi8_xQ78uy3lXQ/edit?usp=sharing)
+[Locomotion Team](https://docs.google.com/document/d/1KsTVKGkh_-t7Uc5l1a_ojB1n6Ph2BFi8_xQ78uy3lXQ/edit?usp=sharing)
