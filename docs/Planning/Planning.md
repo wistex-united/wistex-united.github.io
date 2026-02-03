@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Planning Page
+# Planning
 
 Here is a page to link to individual team planning documents.
 
