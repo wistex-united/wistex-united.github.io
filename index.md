@@ -4,8 +4,6 @@ layout: home
 nav_order: -1
 ---
 
-This website is a work in progress.
-
 ## Site Overview
 
 - [Meeting Notes](docs/Meeting%20Notes/Meeting%20Notes.html): Meeting notes from individual dates
