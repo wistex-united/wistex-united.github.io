@@ -9,8 +9,8 @@ url: https://github.com/wistex-united/wistex-united.github.io
 nav_external_links:
   - title: WisTex on GitHub
     url: https://github.com/wistex-united
-  - title: BadgerBots Jira
-    url: https://robocup-wisc.atlassian.net/jira/software/projects/KAN/boards/2
+  - title: BadgerBots Taskboard
+    url: https://app.clickup.com/9017973985/v/l/t/9017973985
     
 color_scheme: wis-tex
 
